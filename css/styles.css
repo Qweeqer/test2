@@ -6,6 +6,33 @@ body {
 }
 
 /* Upline_WebStudio */
+#header {
+    width: 100%;
+    height: 70px;
+}
+
+#nav {
+    background: url(i/bg-nav.gif) #b318cf 100% 0 no-repeat;
+    height: 70px;
+}
+
+#nav ul {
+    list-style-type: none;
+    float: right;
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    margin-right: 15px;
+    line-height: 20px;
+    display: inline-block;
+}
 .nav {
     width: 1600px;
     height: 80px;
