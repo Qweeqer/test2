@@ -1,6 +1,4 @@
-body {
-    position: relative;
-    width: 1600px;
+body {width: 1600px;
     height: 2349px;
     background: #FFFFFF;
 }
@@ -18,7 +16,7 @@ body {
 }
 
 #nav {
-    background: url(i/bg-nav.gif) #b318cf 100% 0 no-repeat;
+    background: #FFFFFF 100% 0 no-repeat;
     height: 70px;
 }
 
