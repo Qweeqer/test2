@@ -1,15 +1,23 @@
 body {background: #FFFFFF;}
 
 /* Header */
-.header{width: 1600px;
+.header{
+margin-left: 215px;
+width: 1600px;
 height: 80px;
 left: 0px;
 top: 0px;
 background: #FFFFFF}
-.style-web{width: 145px;
+.logo{margin-left: 215px; }
+.style-web {width: 145px;
 font-family: 'Raleway';
-color: #2196F3;
+text-decoration-color: #2196F3;
 padding: 24px 1240px 25px 215px; }
+.menu-nav{position: absolute;
+width: 294px;
+height: 16px;
+left: 445px;
+top: 33px;}
 .header-text {float:none}
 .mail-style {float:right}
 /* Main-block */
