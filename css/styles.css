@@ -6,6 +6,12 @@ body {
 }
 
 /* Upline_WebStudio */
+#wrap {
+    width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    background: #c0c0c0;
+}
 #header {
     width: 100%;
     height: 70px;
