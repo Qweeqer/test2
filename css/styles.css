@@ -42,6 +42,7 @@ header .studio-header-style {
     color: #2196F3;
     border: 1px solid #000000;
 }
+header .studio-header-style a:hover{opacity: 0.8;}
 header .header-text{font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -49,3 +50,5 @@ font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121;}
+@media (max-width: 960px)
+{header .studio-header-style{width: 100%; margin: 15px;}}
