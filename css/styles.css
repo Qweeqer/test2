@@ -6,13 +6,13 @@ body {
 }
 
 /* Upline_WebStudio */
-header .page-header {
+.nav {
     width: 1600px;
     height: 80px;
     background: #FFFFFF;
 }
 
-header .header-name {
+.logo {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -22,7 +22,7 @@ header .header-name {
     color: #000000;
 }
 
-header .header-web {
+.header-web {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -32,7 +32,7 @@ header .header-web {
     color: #2196F3;
 }
 
-header .studio-header-style {
+.studio-header-style {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -42,16 +42,14 @@ header .studio-header-style {
     color: #2196F3;
     border: 1px solid #000000;
 }
-header .studio-header-style a:hover{opacity: 0.8;}
-header .header-text{font-family: 'Roboto';
+.studio-header-style a:hover{opacity: 0.8;}
+.header-text{font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.02em;
 color: #212121;}
-@media (max-width: 960px)
-{header .studio-header-style{width: 100%; margin: 15px;}}
 .main-block{width: 1600px;
 height: 600px;
 left: 0px;
