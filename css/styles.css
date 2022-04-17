@@ -131,7 +131,6 @@ width: 270px}
 /* Whatwedo */
 .what-we-do{width: 1170px;
 margin-left: 215px;
-margin-top: 94px;
 margin-bottom: 94px;}
 .text-title{
 margin-bottom: 50px;
@@ -145,9 +144,7 @@ letter-spacing: 0.03em;
 color: #212121;}
 .foto-we-do1{width: 370px;
 height: 294px;padding-right: 20px; }
-.foto-we-do2 {width: 370px;
-    height: 294px;
-}
+.foto-we-do2 {width: 370px;height: 294px;}
 /* OurTeam */
 .our-team {
 width: 1600px;
